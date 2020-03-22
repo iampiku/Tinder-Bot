@@ -1,0 +1,8 @@
+Actions list:
+-- 1. Navigate to the Tinder website.
+-- 2. Click on the [Login with facebook button] which pop ups as the bot Navigate to site.
+-- 3. Importing login credentials to maintain privacy.
+-- 4. Fill in the login credentials on the facebook login pop up.
+-- 5. Click on the login button in the facbook pop up.
+-- 6. Building auto swiping mechanism.
+
